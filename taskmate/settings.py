@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-pl*^$_3$it5wq+gx1550*$k!z-o4a^jch(w4i#n=y+_0o78z_8
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['taskmatepro-4.onrender.com','localhost','127.0.0.1']
 
 
 # Application definition
